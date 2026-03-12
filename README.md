@@ -53,12 +53,6 @@ My journey in IT and cybersecurity has fueled a strong passion for protecting sy
     <img src="https://img.shields.io/badge/-Switching-004B87?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Ticketing & Documentation
-<div>
-    <img src="https://img.shields.io/badge/-ServiceNow-81B441?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Autotask-E51937?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ITGlue-2F6FED?&style=for-the-badge&logoColor=white" />
-</div>
 
 ### Scripting & Data
 <div>
