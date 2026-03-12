@@ -5,7 +5,6 @@
 I am a IT Engineer with a profound interest in cybersecurity technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in IT and cybersecurity has fueled a strong passion for protecting systems and data. I am now eager to transition further into cybersecurity, with the goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst.
 
