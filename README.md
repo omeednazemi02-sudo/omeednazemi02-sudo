@@ -9,7 +9,6 @@ I am a IT Engineer with a profound interest in cybersecurity technology and a de
 My journey in IT and cybersecurity has fueled a strong passion for protecting systems and data. I am now eager to transition further into cybersecurity, with the goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -17,7 +16,6 @@ My journey in IT and cybersecurity has fueled a strong passion for protecting sy
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 
 ### Identity & Cloud
