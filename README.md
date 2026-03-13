@@ -13,25 +13,12 @@ My journey in IT and cybersecurity has fueled a strong passion for protecting sy
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation, Log Analysis, Brute Force Attack + Prevention | <a href="https://google.com">Detection Lab</a>|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Identity & Cloud
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_365-D83B01?&style=for-the-badge&logo=MicrosoftOffice&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Entra_ID-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Active_Directory-003366?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Exchange_Online-0A66C2?&style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Pax8-1F3A5F?&style=for-the-badge&logoColor=white" />
-</div>
 
 ### Identity & Cloud
 <div>
@@ -39,18 +26,12 @@ My journey in IT and cybersecurity has fueled a strong passion for protecting sy
     <img src="https://img.shields.io/badge/-Entra_ID-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Active_Directory-003366?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_365-D83B01?&style=for-the-badge&logo=MicrosoftOffice&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Exchange_Online-0A66C2?&style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" />
 </div>
 
-### Networking
+### Network
 <div>
-    <img src="https://img.shields.io/badge/-TCP%2FIP-00599C?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-DNS-1E4C9A?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-DHCP-006699?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VLANs-008272?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-UniFi-0559C9?&style=for-the-badge&logo=Ubiquiti&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Firewall_Support-B22222?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Switching-004B87?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    
 </div>
 
 
@@ -58,8 +39,29 @@ My journey in IT and cybersecurity has fueled a strong passion for protecting sy
 <div>
     <img src="https://img.shields.io/badge/-SQL-336791?&style=for-the-badge&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Excel-217346?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white" />
 </div>
+
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-00A3E0?&style=for-the-badge&logo=wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SSH-4CAF50?&style=for-the-badge&logo=gnubash&logoColor=white" />
+</div>
+
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
+</div>
+
 
 ## Certifications
 <div>
@@ -71,6 +73,6 @@ My journey in IT and cybersecurity has fueled a strong passion for protecting sy
 
 </div>
 
+
 ## Projects
 - Detection Lab
-- SOC Automation Project
