@@ -24,7 +24,16 @@ My journey in IT and cybersecurity has fueled a strong passion for protecting sy
     <img src="https://img.shields.io/badge/-Entra_ID-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Active_Directory-003366?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_365-D83B01?&style=for-the-badge&logo=MicrosoftOffice&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Group_Policy-003366?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
+
+### Virtualisation
+<div>
+    <img src="https://img.shields.io/badge/-Proxmox_VE-E57000?&style=for-the-badge&logo=proxmox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+</div>
+
 
 ### Network
 <div>
@@ -37,6 +46,7 @@ My journey in IT and cybersecurity has fueled a strong passion for protecting sy
 <div>
     <img src="https://img.shields.io/badge/-SQL-336791?&style=for-the-badge&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
 
 
@@ -58,6 +68,7 @@ My journey in IT and cybersecurity has fueled a strong passion for protecting sy
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Server_2022-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 
