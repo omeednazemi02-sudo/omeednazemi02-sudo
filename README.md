@@ -13,7 +13,7 @@ My journey in IT and cybersecurity has fueled a strong passion for protecting sy
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation, Log Analysis, Brute Force Attack + Prevention | <a href="https://github.com/omeednazemi02-sudo/Detection-Lab/tree/main">Detection Lab</a>|
-
+| Active Directory Implementation On Server + RBAC on VM | <a href="https://github.com/omeednazemi02-sudo/Active-Directory-RBAC-Lab">Active-Directory-RBAC-Lab</a>|
 
 ## Tools
 
@@ -74,3 +74,4 @@ My journey in IT and cybersecurity has fueled a strong passion for protecting sy
 
 ## Projects
 - <a href="https://github.com/omeednazemi02-sudo/Detection-Lab/tree/main">Detection Lab</a>
+- <a href="https://github.com/omeednazemi02-sudo/Active-Directory-RBAC-Lab">Active-Directory-RBAC-Lab</a>
